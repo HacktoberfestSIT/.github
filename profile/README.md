@@ -1,12 +1,10 @@
-## Hello Testing, 1,2,3...... 👋
+## Hactoberfest SIT
+Welcome to the organization where you will get variety of repos to get you started with your open source contribution for Hacktoberfest 2021
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+### Organization Members
+- Hack Club SIT
+- Google Developer Students Clubs
+- GirlScript Siliguri
+- Microsoft Learn Student Ambassador
+- Codechef SIT Chapter
+- Codecademy North-East Chapter
